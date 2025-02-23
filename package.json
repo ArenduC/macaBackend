@@ -1,0 +1,27 @@
+{
+  "name": "mess",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "date-fns-tz": "^3.2.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "firebase-admin": "^13.0.1",
+    "moment-timezone": "^0.5.46",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
+    "node-localstorage": "^3.0.5",
+    "react-router-dom": "^6.28.0"
+  }
+}
